@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`todos endpoint should return 200 1`] = `
+{
+  "completed": Any<Boolean>,
+  "id": Any<Number>,
+  "title": "delectus aut autem",
+  "userId": Any<Number>,
+}
+`;
